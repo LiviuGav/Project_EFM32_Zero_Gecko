@@ -1,0 +1,11 @@
+/build/
+*.o
+*.axf
+*.map
+*.log
+*.bin
+*.hex
+*.srec
+*.elf
+*.dep
+*.out
